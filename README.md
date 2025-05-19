@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontech – IT Company Website
 
-## Getting Started
+**Description**  
+Frontech is a modern, responsive web application developed for an IT services company that serves both private and government sectors. Built using **Next.js** and **Bootstrap**, the website showcases services, contact options, client engagement, and legal policies, ensuring a smooth user experience across all devices.
 
-First, run the development server:
+## 🌐 Live Demo
+
+👉 Visit the Live Website **[Frontech – IT Company Website](https://it-company-nextjs-app.vercel.app/)**
+
+---
+
+## 🚀 Features
+
+- ⚙️ **Service Details** – Showcases a range of IT services offered.
+- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile views.
+- 📞 **Direct Contact Options** – WhatsApp chat and call links integrated.
+- 📝 **Enquiry Form** – Submit business queries or service requests.
+- 🧭 **Modern Navigation** – Smooth scroll and multi-section layout.
+- 🔒 **Privacy & Terms** – Dedicated pages for legal policies.
+- ⚡ **Performance-First** – Built with Next.js for speed and SEO.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js
+- **Styling**: Bootstrap 5, Custom CSS
+- **Deployment**: Vercel
+- **Languages**: JavaScript, HTML, CSS
+
+---
+
+## 📥 Getting Started
+
+You can access the site online, or run it locally by following these steps:
+
+### ✅ Prerequisites
+
+- Node.js (v14.x or higher)
+- npm (Node Package Manager)
+
+### 🔧 Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Clone the repository
+git clone https://github.com/amit-1901/it-company-nextjs-app.git
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Navigate to the project folder
+cd it-company-nextjs-app
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Install dependencies
+npm install
+ ```
+#### Running the Application Locally
+1. **Start the Development Server**:
+   ```bash
+   npm start
+  
+2. **Open in Browser**:  
+   Navigate to `http://localhost:3000` to access the application locally.
+## 📋 Usage
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Online Usage  
+Visit the Live Website **[Frontech – IT Company Website](https://it-company-nextjs-app.vercel.app/)**
 
-## Learn More
+#### Explore Services:
+- Browse through the homepage or services section to learn about IT solutions offered.
 
-To learn more about Next.js, take a look at the following resources:
+#### Submit an Enquiry:
+- Go to the **Contact** section and fill out the enquiry form with your details.
+- Click on the **WhatsApp** or **Call Now** button to contact the company directly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Footer Navigation:
+- Includes links to **Privacy Policy**, **Terms & Conditions**, and **Contact Details**.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! If you have suggestions or improvements, please **fork** the repository and submit a **pull request**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📄 License
+
+This project is open-source and available under the **[MIT License](LICENSE)**.
+
+---
+
+## 🙏 Acknowledgments
+
+- Built to represent **Frontech’s** presence in the digital world.
+- Developed using modern web technologies including **Next.js**, **Bootstrap**, and **React**.
+
+   
