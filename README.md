@@ -5,7 +5,7 @@ Frontech is a modern, responsive web application developed for an IT services co
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Website](https://it-company-nextjs-app.vercel.app/)
+👉 Visit the Live Website **[Frontech – IT Company Website](https://it-company-nextjs-app.vercel.app/)**
 
 ---
 
@@ -61,7 +61,7 @@ npm install
 ## 📋 Usage
 
 ### Online Usage  
-Visit the live website: **[Frontech Website](https://it-company-nextjs-app.vercel.app/)**
+Visit the Live Website **[Frontech – IT Company Website](https://it-company-nextjs-app.vercel.app/)**
 
 #### Explore Services:
 - Browse through the homepage or services section to learn about IT solutions offered.
