@@ -4,13 +4,13 @@ import Testimonials from "../components/Testimonials";
 
 const MissionVision = () => {
   return (
-    <section className="relative bg-light w-full overflow-hidden flex justify-center items-center text-center">
+    <section className="relative bg-white w-full overflow-hidden flex justify-center items-center text-center">
       <div className="container mx-auto px-4 ">
         <div className="flex flex-wrap items-center justify-center text-center">
           {/* Vision Section */}
           <div className="w-full md:w-[30%] flex flex-col items-center text-center">            
             <h2 className="text-2xl font-bold text-[#27699D] mb-2">
-              Our Vision
+              Our VisioN
             </h2>
             <p className="text-gray-600">
               To be a unique and quality service provider in the sectors we
