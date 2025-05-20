@@ -29,7 +29,7 @@ const departments = [
 export default function DepartmentCards() {
   return (
     <div className="container bg-white mx-auto px-4 py-6">
-      <h6 className="text-3xl md:text-4xl font-bold text-center mb-10">
+      <h6 className="text-3xl text-black md:text-4xl font-bold text-center mb-10">
         Our Departments
       </h6>
       <hr className="border-gray-700 w-full mx-auto my-4" />

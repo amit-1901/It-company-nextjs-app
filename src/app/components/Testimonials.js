@@ -48,8 +48,8 @@ export default function Testimonials() {
   };
 
   return (
-    <div className="w-full flex flex-col items-center justify-center p-6 mt-12 mb-12">
-      <h6 className="text-3xl md:text-4xl font-bold text-center mb-10">
+    <div className="w-full flex bg-white flex-col items-center justify-center p-6 mt-12 mb-12">
+      <h6 className="text-3xl text-black md:text-4xl font-bold text-center mb-10">
         Customers Testimonials
       </h6>
       <hr className="relative border-gray-700 w-full mx-auto my-4" />
