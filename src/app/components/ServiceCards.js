@@ -41,8 +41,8 @@ export default function ServiceCards() {
   ];
 
   return (
-    <div className="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
-      <h6 className="text-3xl md:text-4xl font-bold text-center mb-10">
+    <div className="bg-white max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
+      <h6 className="text-3xl text-black md:text-4xl font-bold text-center mb-10">
         Our Services
       </h6>
       <hr className="border-gray-700 w-full mx-auto my-4" />
