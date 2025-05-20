@@ -38,7 +38,7 @@ export default function ServiceCardList() {
   return (
     <div className="w-full max-w-2xl flex justify-center mt-8 lg:mt-0">
       <div className="bg-white shadow-lg rounded-lg p-8 border w-full  min-h-[60vh] ">
-        <h2 className="text-2xl font-bold text-center my-2 whitespace-nowrap overflow-hidden text-ellipsis">
+        <h2 className="text-2xl text-black font-bold text-center my-2 whitespace-nowrap overflow-hidden text-ellipsis">
           Our Other Services
         </h2>
         <hr className="border-gray-700 w-full mx-auto my-6" />

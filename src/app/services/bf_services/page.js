@@ -4,7 +4,7 @@ export default function BFServices() {
   return (
     <>
       {/* Top Section - Title & Intro */}
-      <div className="text-center lg:text-left px-6 lg:px-16 pt-12">
+      <div className="bg-white text-center lg:text-left px-6 lg:px-16 pt-12">
         <h1 className="text-4xl font-bold text-[#27699D]">
           Banking & Financial Services
         </h1>
@@ -32,7 +32,7 @@ export default function BFServices() {
       </div>
 
       {/* Centered ServiceCardList */}
-      <div className="flex justify-center items-center my-12">
+      <div className="bg-white flex justify-center items-center my-12">
         <ServiceCardList />
       </div>
     </>

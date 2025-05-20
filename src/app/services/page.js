@@ -73,8 +73,8 @@ const serviceslist = [
 export default function Services() {
   return (
     <>
-      <div className="max-w-7xl mx-auto px-6 py-12">
-        <h2 className="text-4xl font-bold text-center mb-2">Explore Our Wide Range of Services</h2>
+      <div className="bg-white max-w-7xl mx-auto px-6 py-12">
+        <h2 className="text-4xl text-black font-bold text-center mb-2">Explore Our Wide Range of Services</h2>
         <p className="text-lg text-center text-gray-600 mb-8">Through technology, we drive business transformation.</p>
         <hr className="border-gray-700 w-full mx-auto my-4"/>
         <div className="space-y-8">
